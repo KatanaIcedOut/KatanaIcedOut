@@ -1,5 +1,5 @@
--👋 Hi, I’m @KatanaIcedOut
--👀 I’m interested in Everything
+- 👋 Hi, I’m @KatanaIcedOut
+- 👀 I’m interested in Everything
 - 🌱 I’m currently learning Kobalt
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me you don't.
